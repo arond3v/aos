@@ -28,3 +28,4 @@ enum {
 
 // function declaration
 void clrscr();
+void printstr(char *, uint8_t);
